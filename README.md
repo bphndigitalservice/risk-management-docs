@@ -1,4 +1,26 @@
+
 # Dokumentasi Penggunaan Fitur Manajemen Risiko Pada E-Office
+
+**Table of Contents**
+<!-- TOC -->
+* [Dokumentasi Penggunaan Fitur Manajemen Risiko Pada E-Office](#dokumentasi-penggunaan-fitur-manajemen-risiko-pada-e-office)
+  * [Akses Modul Manajemen Risiko](#akses-modul-manajemen-risiko)
+  * [Pengelolaan Risiko](#pengelolaan-risiko)
+    * [Penetapan Tujuan](#penetapan-tujuan)
+      * [Menambahkan Program/Strategi/Kegiatan](#menambahkan-programstrategikegiatan)
+      * [Menambahkan Sasaran](#menambahkan-sasaran)
+      * [Menambahkan Indikator Kinerja](#menambahkan-indikator-kinerja)
+      * [Menambahkan Data Permasalahan](#menambahkan-data-permasalahan)
+      * [Menambahkan PIC pada Program/Strategi/Kegiatan](#menambahkan-pic-pada-programstrategikegiatan)
+    * [Identifikasi Risiko](#identifikasi-risiko)
+    * [Analisis Risiko](#analisis-risiko)
+      * [Evaluasi Risiko](#evaluasi-risiko)
+    * [Penanganan Risiko](#penanganan-risiko)
+    * [Pemantauan Risiko](#pemantauan-risiko)
+  * [Export Laporan](#export-laporan-)
+<!-- TOC -->
+
+
 
 ## Akses Modul Manajemen Risiko
 
