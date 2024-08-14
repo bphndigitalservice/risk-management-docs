@@ -15,7 +15,7 @@
       - [Menambahkan PIC pada Program/Strategi/Kegiatan](#menambahkan-pic-pada-programstrategikegiatan)
     - [Identifikasi Risiko](#identifikasi-risiko)
     - [Analisis Risiko](#analisis-risiko)
-      - [Evaluasi Risiko](#evaluasi-risiko)
+    - [Evaluasi Risiko](#evaluasi-risiko)
     - [Penanganan Risiko](#penanganan-risiko)
     - [Pemantauan Risiko](#pemantauan-risiko)
   - [Export Laporan](#export-laporan-)
@@ -130,7 +130,7 @@ Klik nama Sisa Risiko pada tabel untuk memasukan **peta risiko**. Masukan pada d
 
 Setelah mengisi semua masukan tekan tombol **simpan**.
 
-#### Evaluasi Risiko
+### Evaluasi Risiko
 
 Pada tahap evaluasi risiko data yang digunakan adalah data sisa risiko dari Pernyataan Risiko yang telah dimasukan pada proses **Identifikasi Risiko**.
 ![](/assets/evaluasi_risiko_1.png)
